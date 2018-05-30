@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="ssh://git@github.com/openthread" name="origin" pushurl="ssh://git@github.com/bukepo" review="ssh://git@github.com/bukepo"/>
+	<default remote="origin" revision="master"/>
+	<project path="openthread" name="openthread"/>
+	<project path="wpantund" name="wpantund"/>
+	<project path="borderrouter" name="borderrouter"/>
+</manifest>
